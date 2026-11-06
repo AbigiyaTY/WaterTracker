@@ -77,7 +77,6 @@ The project uses Jetpack Compose and Material Design 3:
 implementation("androidx.compose.material3:material3")
 ```
 
-Sync the project after adding dependencies.
 
 ### Usage
 
